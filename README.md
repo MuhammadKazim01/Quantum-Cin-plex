@@ -25,7 +25,9 @@ git clone https://github.com/your-username/quantum-cineplex.git
 
 2. Open the project in your favorite Java IDE.
 
-3. Compile and run the `Main.java` file to start the application.
+3. Setup database. 
+
+4. Compile and run the `Quantum_Cinéplex.java` file to start the application.
 
 ## Usage:
 
