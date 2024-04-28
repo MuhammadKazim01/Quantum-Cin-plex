@@ -21,7 +21,7 @@ Recognizing the paramount importance of security and convenience, Quantum Cinép
 To run Quantum Cinéplex locally, follow these steps:
 
 1. Clone the repository:
-git clone https://github.com/your-username/quantum-cineplex.git
+https://github.com/MuhammadKazim01/Quantum-Cin-plex.git
 
 2. Open the project in your favorite Java IDE.
 
